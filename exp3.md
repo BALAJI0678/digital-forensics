@@ -59,7 +59,7 @@ Navigate to the unencrypted test web application and submit form credentials.
 * **Target URL:** `http://testasp.vulnweb.com/Login.asp?RetURL=/Templatize.asp?item=html/about.html`
 * **Test Application:** Acunetix Acuforum (Deliberately vulnerable test site)
 * **Submitted Fields:**
-  * **Username:** `raham`
+  * **Username:** `balaji`
   * **Password:** `12345678`
 <img width="1120" height="700" alt="Screenshot 2026-09-23 221003" src="https://github.com/user-attachments/assets/7c0b1b37-6ddd-42be-b30e-d34c032b9b4c" />
 
@@ -108,6 +108,6 @@ HTML Form URL Encoded: application/x-www-form-urlencoded
     ├── Form item: "tfUName" = "balaji"
     └── Form item: "tfUPass" = "12345678"
 Exposed Credentials Extracted:
-tfUName: raham
+tfUName: balaji
 
 tfUPass: 12345678
