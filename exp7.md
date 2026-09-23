@@ -53,7 +53,7 @@ To allow ADB commands to be executed directly from Command Prompt.
 
 3. Add the following platform-tools location:
 
-   `C:\Users\ASUS\Downloads\platform-tools`
+   `C:\Users\venka\Downloads\platform-tools`
 
 4. Click **OK** to save the changes.
 
@@ -64,9 +64,7 @@ Open a new Command Prompt and execute:
 ```cmd
 adb version
 ```
-<img width="1254" height="1173" alt="ChatGPT Image Sep 24, 2026, 12_47_59 AM" src="https://github.com/user-attachments/assets/66d670b1-eaa7-4ee5-8c0a-c752eaac677a" />
-<img width="1875" height="839" alt="image" src="https://github.com/user-attachments/assets/7a094fe8-4616-4b8c-a5a7-d095d45e55b4" />
-
+<img width="1492" height="1054" alt="Screenshot 2024-05-14 531316" src="https://github.com/user-attachments/assets/b96d668a-2d6d-42a2-9505-43267e928b2a" /><<img width="2149" height="732" alt="Screenshot 2024-05-14 129816" src="https://github.com/user-attachments/assets/6bd03076-9d13-454b-914b-3079d5aa4e18" />
 
 ## STEP 3 — Install Google USB Driver
 Purpose
@@ -84,8 +82,7 @@ Open Command Prompt and execute:
 ```cmd
 adb devices
 ```
-<img width="1880" height="837" alt="image" src="https://github.com/user-attachments/assets/ff8d2880-da75-4ac9-b453-7fcd213768d8" />
-
+<img width="2132" height="737" alt="Screenshot 2024-05-14 121398" src="https://github.com/user-attachments/assets/6c20649f-b532-4cd7-80b3-36f789f531dd" />
 
 ## STEP 4 — Enable Developer Options on the Phone
 Procedure
@@ -128,8 +125,7 @@ adb install "C:\ForensicLab\aflogical-ose\AFLogical-OSE.apk"
 ```
 4. Wait for the installation to complete.
 5. The following message indicates successful installation:
-<img width="2172" height="319" alt="ChatGPT Image Sep 24, 2026, 12_40_38 AM" src="https://github.com/user-attachments/assets/a0b58c36-b809-4c30-b5b5-26db88abea26" />
-
+<img width="2170" height="725" alt="Screenshot 2024-05-14 125366" src="https://github.com/user-attachments/assets/c02e9fa8-cbab-4ef7-b432-b247d80b4924" />
  
 6. Check the Android device and verify that AFLogical OSE is installed.
 
@@ -162,10 +158,7 @@ Procedure
 ```cmd
 mkdir C:\ForensicLab\output
 ```
-<img width="2171" height="363" alt="ChatGPT Image Sep 24, 2026, 12_42_48 AM" src="https://github.com/user-attachments/assets/43ccc254-924d-417d-96fe-fb867f6dc26c" />
-2. Copy the extracted forensic data using:
-```cmd
-adb pull /sdcard/forensics/ "C:\ForensicLab\output"
+<img width="2170" height="413" alt="Screenshot 2024-05-14 121355" src="https://github.com/user-attachments/assets/763b2c45-c7e5-4a9c-b655-dd96113c2e30" />adb pull /sdcard/forensics/ "C:\ForensicLab\output"
 ```
 3. Wait for the transfer to complete.
 4. Check the transferred files using:
