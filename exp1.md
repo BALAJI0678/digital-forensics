@@ -314,7 +314,7 @@ The digital evidence was successfully acquired using **AccessData FTK Imager**.
 Both volatile memory and non-volatile disk evidence can be acquired using the tool. Hash verification helps ensure the integrity of the acquired forensic evidence.
 
 ---
-<img width="1173" height="1341" alt="ChatGPT Image Aug 22, 2026, 05_54_21 PM" src="https://github.com/user-attachments/assets/c42bdacd-0623-4b59-ad95-2c3313bc3bf7" />
+<img width="900" height="1043" alt="Screenshot 2024-09-22 131754" src="https://github.com/user-attachments/assets/7de14666-9e90-4151-add1-0d1412da5da4" />
 
 # 🛡️ Key Concepts
 
