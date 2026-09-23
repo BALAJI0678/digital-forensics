@@ -46,30 +46,25 @@ The TestDisk application was extracted and `testdisk_win`
 was executed as Administrator.
 
 The **Create** option was selected to create a new log file.
-<img width="1148" height="677" alt="Screenshot 2026-08-25 213719" src="https://github.com/user-attachments/assets/96751c3e-a601-46ec-838e-3eddcf573971" />
-
+<img width="1757" height="895" alt="Screenshot 2024-09-22 191516" src="https://github.com/user-attachments/assets/851ece61-136a-426f-86d0-88b4d5cabe28" />
 ### Step 2: Select the Storage Device
 
 The available storage devices were displayed by TestDisk.
 
 The **2 GB virtual test disk** was selected and
 **Proceed** was chosen.
-<img width="1127" height="692" alt="Screenshot 2026-08-25 214037" src="https://github.com/user-attachments/assets/2d120f75-a36a-4704-b04d-d483e3d1efef" />
-
+<img width="1808" height="870" alt="Screenshot 2024-09-22 081506" src="https://github.com/user-attachments/assets/2890d95f-fc62-4267-b8bb-af638ee62e30" />
 
 ### Step 3: Select Partition Table Type
 
 The **Intel/PC (MBR)** partition table type was selected
 for the virtual test disk.
-<img width="1132" height="642" alt="Screenshot 2026-08-25 214111" src="https://github.com/user-attachments/assets/dca39a5e-c25b-44d6-9a2c-e6647b101547" />
-
-
+<img width="1805" height="871" alt="Screenshot 2024-05-14 121356" src="https://github.com/user-attachments/assets/00930e6a-638b-4e44-a2b5-fa07088a1deb" />
 ### Step 4: Analyse the Disk
 
 The **Analyse** option was selected to examine the current
 partition structure and search for partitions.
-<img width="1137" height="642" alt="Screenshot 2026-08-25 214139" src="https://github.com/user-attachments/assets/f5420b7e-7983-448c-a0a5-75b338ddd858" />
-
+<img width="1763" height="892" alt="Screenshot 2024-09-22 081556" src="https://github.com/user-attachments/assets/cc056fb3-1f57-45ad-83cc-c5fbd0171dae" />
 
 ### Step 5: Perform Quick Search
 
@@ -77,8 +72,7 @@ The **Quick Search** option was selected.
 
 TestDisk scanned the virtual disk and identified the
 NTFS partition.
-<img width="1108" height="650" alt="Screenshot 2026-08-25 214206" src="https://github.com/user-attachments/assets/b45c7578-cdf0-401c-ba26-488e4a22c404" />
-
+<img width="1704" height="923" alt="Screenshot 2024-09-22 081507" src="https://github.com/user-attachments/assets/72732ef2-d543-4aff-be55-aefcd15fe047" />
 
 ### Step 6: Verify the Partition
 
@@ -87,8 +81,7 @@ The detected partition was displayed as:
 `L HPFS - NTFS [TestDiskLab]`
 
 The partition was selected for verification.
-<img width="1131" height="662" alt="Screenshot 2026-08-25 214247" src="https://github.com/user-attachments/assets/19af069d-a48a-43b3-9ade-68c0d8cb7f3b" />
-
+<img width="1706" height="922" alt="Screenshot 2024-09-22 098706" src="https://github.com/user-attachments/assets/690baa3e-3948-47bc-8c8a-01c46c66caa4" />
 
 
 ### Step 7: List Files
@@ -98,8 +91,7 @@ detected partition.
 
 TestDisk displayed the directory structure and available
 files in the partition.
-<img width="1118" height="656" alt="Screenshot 2026-08-25 214446" src="https://github.com/user-attachments/assets/0eebae8e-2ed1-4538-b7c2-7f3a41f6a836" />
-
+<img width="1676" height="939" alt="Screenshot 2024-05-14 121766" src="https://github.com/user-attachments/assets/cbe509d1-6d1d-4a6b-b495-311bf3709c87" />
 
 ### Step 8: Perform Deeper Search
 
@@ -107,8 +99,7 @@ The **Deeper Search** option was performed to conduct a
 more thorough search of the storage device.
 
 The detected partition was verified again.
-<img width="1113" height="640" alt="Screenshot 2026-08-25 214513" src="https://github.com/user-attachments/assets/47513e8f-1a9d-4430-bf15-109861d9255e" />
-
+<img width="1573" height="1000" alt="Screenshot 2024-05-14 123389" src="https://github.com/user-attachments/assets/1c27c453-490b-4407-8c69-7a8e234a4b5b" />
 
 
 ### Step 9: Write Partition Information
@@ -120,24 +111,19 @@ TestDisk displayed a confirmation message asking whether
 the partition table should be written.
 
 The operation was confirmed using **Y**.
-<img width="1097" height="632" alt="Screenshot 2026-08-25 214916" src="https://github.com/user-attachments/assets/e4fcd525-feb3-42e8-aa99-119d4fd894de" />
-
-
-
+<img width="1619" height="972" alt="Screenshot 2024-05-14 121316" src="https://github.com/user-attachments/assets/7a0e1de4-b5e8-4442-b6a0-3bc47b0fd8e3" />
 ### Step 10: Exit TestDisk
 
 After the partition information was written successfully,
 the TestDisk application was exited using the Quit option.
 
-<img width="1102" height="637" alt="Screenshot 2026-08-25 214944" src="https://github.com/user-attachments/assets/097ee1d9-4e61-4c23-9429-528015cc6804" />
-
+<img width="1649" height="954" alt="Screenshot 2024-05-14 192416" src="https://github.com/user-attachments/assets/5bd00216-d08e-4b20-9e24-678feae53c5a" />
 # Final Output
 
 The final TestDisk file-listing screen was used to verify
 that the detected NTFS partition and its file structure
 were accessible.
-<img width="1106" height="643" alt="Screenshot 2026-08-25 214617" src="https://github.com/user-attachments/assets/1189f01a-c0d3-450b-92bf-bff28d9aced2" />
-
+<img width="1653" height="952" alt="Screenshot 2024-05-14 191516" src="https://github.com/user-attachments/assets/b97cf452-2b41-4fec-888f-0d87d1dd3260" />
 
 ## Result
 
