@@ -45,10 +45,17 @@ The forensic image consisted of image files:
 
 4Dell Latitude CPi.E01
 output screenshots
-<img width="1314" height="1167" alt="Screenshot_2026-09-23_225639" src="https://github.com/user-attachments/assets/61051780-02e2-4ab3-b233-06e032fd284f" />
-<img width="1152" height="1158" alt="Screenshot_2026-09-23_225709" src="https://github.com/user-attachments/assets/f781c8fd-3b27-451d-80d1-629104de69d7" />
-<img width="1249" height="1159" alt="Screenshot_2026-09-23_225650" src="https://github.com/user-attachments/assets/9bd1ffbc-e6d7-4e0e-94bd-cedd22906345" />
-<img width="587" height="601" alt="Screenshot_2026-09-23_225731" src="https://github.com/user-attachments/assets/6221afd2-4c44-41ad-8ccb-6960a9138ea9" />
-<img width="1161" height="1203" alt="Screenshot_2026-09-23_225750" src="https://github.com/user-attachments/assets/070bc088-9209-454f-8633-81f3bb2b86cd" />
-<img width="1153" height="1203" alt="Screenshot_2026-09-23_225803" src="https://github.com/user-attachments/assets/dc30fb03-8397-41a6-abaf-397513b99dc3" />
-<img width="1105" height="1198" alt="Screenshot_2026-09-23_225818" src="https://github.com/user-attachments/assets/641f1684-4888-4cc5-8a76-f75d53e90732" />
+<img width="2170" height="560" alt="Screentshot 1" src="https://github.com/user-attachments/assets/c2c54a02-54d5-480e-9ee0-8b1b5a24444d" />
+<img width="2172" height="724" alt="Screentshot 3" src="https://github.com/user-attachments/assets/64cc2adc-2ef3-47f7-abe4-85e8dcca1768" />
+<img width="1753" height="897" alt="Screentshot 2" src="https://github.com/user-attachments/assets/887bec98-4b24-4582-a7bb-7c5eacce2ca1" />
+<img width="1917" height="1018" alt="Screenshot 2026-09-18 165717" src="https://github.com/user-attachments/assets/11fe9571-316c-406d-86f9-5bd0c118229c" />
+<img width="1846" height="987" alt="Screenshot 2026-09-18 165424" src="https://github.com/user-attachments/assets/09ddf944-9a63-447d-935f-b7c287eab2f3" />
+<img width="1503" height="1047" alt="Screentshot 4" src="https://github.com/user-attachments/assets/9d24717d-6c35-4574-9413-f3437656790d" />
+<img width="1766" height="830" alt="Screenshot 2026-09-18 165037" src="https://github.com/user-attachments/assets/f94f8b89-295b-47ef-8b9b-acb039ad7b97" />
+<img width="1917" height="996" alt="Screenshot 2026-09-18 164151" src="https://github.com/user-attachments/assets/28dafd17-d37a-4ba3-874a-d366fcf86169" />
+<img width="1725" height="948" alt="Screenshot 2026-09-18 164016" src="https://github.com/user-attachments/assets/2a742ffd-2fda-4008-a949-f4b7adea8803" />
+<img width="1664" height="945" alt="Screentshot 5" src="https://github.com/user-attachments/assets/501e2537-be98-43d3-851d-e1d07cd850f2" />
+<<img width="1668" height="943" alt="Screentshot 6" src="https://github.com/user-attachments/assets/1ce237fd-5259-4c80-810e-5b51c67f75bc" />
+<img width="1915" height="1022" alt="Screenshot 2026-09-18 172947" src="https://github.com/user-attachments/assets/b5a89102-43c1-4cd7-9fbc-16300bd08605" />
+<img width="920" height="300" alt="Screenshot 2026-09-18 170407" src="https://github.com/user-attachments/assets/c4ffac98-2bce-420d-839e-d87bef3419fa" />
+<img width="2170" height="652" alt="Screentshot 7" src="https://github.com/user-attachments/assets/7e297b66-25ee-4878-b1a6-9054cdd2f9af" />
